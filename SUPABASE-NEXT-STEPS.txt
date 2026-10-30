@@ -1,0 +1,16 @@
+SUPABASE CONNECTED PORTFOLIO — NEXT STEPS
+
+1. Extract this ZIP.
+2. Start local preview with START-WEBSITE.bat and keep the black command window open.
+3. Open http://127.0.0.1:4173/admin.html
+4. Sign in with Supabase Auth email: muhammadshahzad23092004@gmail.com
+5. Enter the password for that Supabase Auth account (do not share it with anyone).
+6. Admin settings are saved to site_settings. Uploaded sample images are stored in the public portfolio-images bucket.
+7. On Save Changes, uploaded sample slots are synchronized to portfolio_items (only samples with an uploaded image become public rows).
+8. Open/refresh http://127.0.0.1:4173/ and /portfolio.html to verify settings and portfolio images.
+9. If any error appears, copy the exact error text; do not repeatedly reset settings.
+10. Only after local tests succeed, publish the website files to GitHub Pages.
+
+Project URL: https://svmsdqgvfwtwhajjvcas.supabase.co
+The publishable key is configured in supabase-client.js. Never put a service_role/secret key in browser code.
+The package has not been live-tested against the user's Supabase project from this environment.

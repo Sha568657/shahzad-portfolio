@@ -1,0 +1,1 @@
+Step 18 update: Contact Details card redesigned to match the user reference: four clean rows for Location, Phone, WhatsApp, and Email, with horizontal dividers and no icons. Open contact.html to view. Keep all files in the same folder.
